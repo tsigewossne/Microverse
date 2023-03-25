@@ -1,0 +1,1 @@
+This file dhould be ignored by git
